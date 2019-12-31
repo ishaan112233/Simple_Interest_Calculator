@@ -1,0 +1,4 @@
+#Tue Dec 31 15:15:49 IST 2019
+base.0=/home/legion/AndroidStudioProjects/simple_interest_calculator/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
